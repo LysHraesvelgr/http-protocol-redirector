@@ -1,7 +1,7 @@
 # HTTP protocol redirector
 [![pages-build-deployment](https://github.com/lyshraesvelgr/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/lyshraesvelgr/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)
 
-```
+```js
 https://lyshraesvelgr.github.io/http-protocol-redirector?r=
 ```
 
